@@ -1,2 +1,2 @@
-# first-js-practice
- my first js code  using Youtube xD
+# my-first-js-practice
+ my first js practice using Youtube
